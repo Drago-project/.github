@@ -1,15 +1,20 @@
-# Drago
+# 🐉 Drago
+
 <p align="center">
   <img src="assets/drago mascot (wave).svg" width="70%">
 </p>
 
-### AI-Powered Learning Platform for Children with Dyslexia
+<p align="center">
+AI-Powered Learning Platform for Arabic-Speaking Children with Dyslexia
+</p>
+
+---
 
 Drago is an educational platform designed specifically to support **Arabic-speaking children with dyslexia** through personalized learning, artificial intelligence, and interactive educational experiences.
 
-The platform provides a **bilingual interface (Arabic/English)** while delivering educational content tailored to Arabic language learning and dyslexia intervention needs.
+The platform provides a **bilingual interface (Arabic/English)** while delivering educational content tailored for Arabic language learning and dyslexia intervention.
 
-Our mission is to make learning more accessible, engaging, and adaptive while addressing reading and phonological challenges through inclusive and research-driven technology.
+Our mission is to make learning more accessible, engaging, and adaptive through inclusive and research-driven technology.
 
 ---
 
@@ -59,7 +64,7 @@ Drago includes four educational games designed to target different dyslexia-rela
 Drago was designed with accessibility at its core:
 
 * Full Arabic RTL support
-* OpenDyslexic readable font
+* OpenDyslexic / Maqroo readable fonts
 * Child-centered UI experience
 * Custom Drago mascot and visual identity
 * Progressive difficulty levels
@@ -85,57 +90,40 @@ Throughout the journey, we:
 
 ### Frontend & User Experience
 
-* React 19
-* Vite
-* Progressive Web App (PWA)
-* Offline Support
-* RTL Arabic Support
-* Custom Drago Mascot & Accessible UI
-* OpenDyslexic/ Maqroo Font
-* Vercel Deployment
-
----
+React 19 • Vite • PWA • RTL Support • Accessible UI
 
 ### Backend & Infrastructure
 
-* ASP.NET
-* SignalR (Real-time Communication)
-* REST APIs
-* Monster API (AI Model Hosting & Inference)
-
----
+ASP.NET • SignalR • REST APIs • Monster API
 
 ### AI & Machine Learning
 
-* Customized Whisper-based Speech Recognition
-* Hugging Face Models
-* Natural Language Processing (NLP)
-* Educational Error Detection
-* AI Recommendation Engine
-
----
+Whisper • Hugging Face • NLP • Educational Error Detection • Recommendation Engine
 
 ### Data & Learning Engineering
 
-* Tailored Educational Datasets
-* Dataset Generation & Validation
-* Progressive Difficulty Design
-* Learning Analytics & Progress Tracking
+Tailored Datasets • Dataset Validation • Progressive Difficulty Design • Learning Analytics
+
+### Deployment
+
+Vercel
 
 ---
 
 ## Explore Drago
 
-🌐 Live Demo → https://drago-frontend.vercel.app/
----
-🎥 Demo Video → https://drive.google.com/file/d/1koRrGcUncSmSUndIKFz_VvVOUcY03Cq4/view?usp=sharing
----
-Presentation link → https://canva.link/g7bnbcn63umh5bl
+🌐 **Live Demo**
+https://drago-frontend.vercel.app/
+
+🎥 **Demo Video**
+https://drive.google.com/file/d/1koRrGcUncSmSUndIKFz_VvVOUcY03Cq4/view
+
+📑 **Presentation**
+https://canva.link/g7bnbcn63umh5bl
+
 ---
 
 ## Team
-
-Graduation Project Team
 
 ### Supervisors
 
@@ -143,13 +131,9 @@ Graduation Project Team
 * Dr. Asmaa Ali
 * Dr. Nihal Mabrok
 
----
-
 ### Team Leader
 
 * Habiba Mohamed
-
----
 
 ### Frontend Team
 
@@ -158,15 +142,11 @@ Graduation Project Team
 * Sara Medhat
 * Yousef Hussein
 
----
-
 ### Backend Team
 
 * Alaa Moustafa
 * Emy Ayman
 * Steven Adly
-
----
 
 ### AI Team
 
@@ -177,9 +157,6 @@ Graduation Project Team
 
 ---
 
-We built Drago through collaborative work across educational research, AI development, accessibility design, and full-stack engineering.
-
-
----
+Built through collaborative work across educational research, AI development, accessibility design, and full-stack engineering.
 
 Technology becomes more meaningful when it creates opportunities for everyone.
