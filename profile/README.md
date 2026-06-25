@@ -1,6 +1,6 @@
 # Drago
 <p align="center">
-  <img src="assets/drago mascot (wave).svg" width="100%">
+  <img src="assets/drago mascot (wave).svg" width="70%">
 </p>
 
 ### AI-Powered Learning Platform for Children with Dyslexia
@@ -125,14 +125,15 @@ Throughout the journey, we:
 ## Explore Drago
 
 🌐 Live Demo → https://drago-frontend.vercel.app/
+---
 🎥 Demo Video → https://drive.google.com/file/d/1koRrGcUncSmSUndIKFz_VvVOUcY03Cq4/view?usp=sharing
-
+---
+Presentation link → https://canva.link/g7bnbcn63umh5bl
 ---
 
 ## Team
 
 Graduation Project Team
-## Team
 
 ### Supervisors
 
