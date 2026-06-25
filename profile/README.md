@@ -5,9 +5,11 @@
 
 ### AI-Powered Learning Platform for Children with Dyslexia
 
-Drago is a bilingual (Arabic/English) educational platform designed to support Arabic-speaking children with dyslexia through personalized learning, artificial intelligence, and interactive educational experiences.
+Drago is an educational platform designed specifically to support **Arabic-speaking children with dyslexia** through personalized learning, artificial intelligence, and interactive educational experiences.
 
-Our mission is to make learning more accessible, engaging, and adaptive while addressing real reading and phonological challenges.
+The platform provides a **bilingual interface (Arabic/English)** while delivering educational content tailored to Arabic language learning and dyslexia intervention needs.
+
+Our mission is to make learning more accessible, engaging, and adaptive while addressing reading and phonological challenges through inclusive and research-driven technology.
 
 ---
 
